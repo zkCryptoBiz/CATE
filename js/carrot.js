@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to create and animate a juice box
     function createAndAnimateJuiceBox() {
         const img = document.createElement('img');
-        img.src = 'images/money.png';
+        img.src = 'images/money_GCAT.png';
         img.style.position = 'fixed';
         img.style.maxWidth = '120px';
         img.style.height = 'auto';
